@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mi:
 ¡Hola! Soy DonValen910 un apasionado desarrollador web front-end.<br><br>Me encanta sumergirme en las últimas tecnologías y tendencias del mundo del front-end. Ya sea explorando nuevas herramientas de diseño o investigando las mejores prácticas de accesibilidad web, siempre estoy buscando expandir mis conocimientos y habilidades.
 
 
